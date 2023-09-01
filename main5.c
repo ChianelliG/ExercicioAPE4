@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <locale.h>
 #include <math.h>
 
 int main(void) {
@@ -21,5 +20,6 @@ int main(void) {
     }else{
             printf("O numero nao se encaixa em nenhuma das opcoes");
     }
-
+   
+  system("pause");
 }
